@@ -1,0 +1,72 @@
+[
+    {
+        "course_id": "C001",
+        "title": "Introduction to Python Programming",
+        "description": "Learn the basics of Python programming language",
+        "difficulty": "Beginner",
+        "time_required_hours": 20
+    },
+    {
+        "course_id": "C002",
+        "title": "Advanced Machine Learning",
+        "description": "Deep dive into ML algorithms and techniques",
+        "difficulty": "Advanced",
+        "time_required_hours": 40
+    },
+    {
+        "course_id": "C003",
+        "title": "Web Development Fundamentals",
+        "description": "Build responsive websites from scratch",
+        "difficulty": "Intermediate",
+        "time_required_hours": 30
+    },
+    {
+        "course_id": "C004",
+        "title": "Data Structures in Java",
+        "description": "Master fundamental data structures",
+        "difficulty": "Intermediate",
+        "time_required_hours": 25
+    },
+    {
+        "course_id": "C005",
+        "title": "SQL for Beginners",
+        "description": "Introduction to database management",
+        "difficulty": "Beginner",
+        "time_required_hours": 15
+    },
+    {
+        "course_id": "C006",
+        "title": "Cybersecurity Essentials",
+        "description": "Learn to protect systems and networks",
+        "difficulty": "Intermediate",
+        "time_required_hours": 35
+    },
+    {
+        "course_id": "C007",
+        "title": "Deep Learning Specialization",
+        "description": "Advanced neural network techniques",
+        "difficulty": "Advanced",
+        "time_required_hours": 45
+    },
+    {
+        "course_id": "C008",
+        "title": "JavaScript Basics",
+        "description": "Core concepts of JavaScript programming",
+        "difficulty": "Beginner",
+        "time_required_hours": 18
+    },
+    {
+        "course_id": "C009",
+        "title": "Cloud Computing Foundations",
+        "description": "Understand cloud infrastructure",
+        "difficulty": "Intermediate",
+        "time_required_hours": 28
+    },
+    {
+        "course_id": "C010",
+        "title": "Algorithms and Complexity",
+        "description": "Analyze algorithm efficiency",
+        "difficulty": "Advanced",
+        "time_required_hours": 38
+    }
+]

@@ -1,0 +1,155 @@
+/* Container for the entire component */
+.signin-signup-container {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    position: relative;
+    overflow: hidden;
+  }
+  
+  /* Background video styling */
+  .signin-signup-container video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: 0;
+  }
+  
+  /* Card styling */
+  .signin-signup-card {
+    background-color: rgba(44, 44, 44, 0.8); /* Default dark mode */
+    color: #fff; /* Default dark mode */
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    max-width: 500px;
+    width: 100%;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+    backdrop-filter: blur(0.5px);
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+  
+  /* Light mode card styling */
+  .light-mode .signin-signup-card {
+    background-color: rgba(255, 255, 255, 0.8);
+    color: #000;
+  }
+  
+  /* Icon styling */
+  .signin-signup-icon {
+    font-size: 48px;
+    margin-bottom: 20px;
+  }
+  
+  /* Toggle button container */
+  .toggle-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-bottom: 20px;
+  }
+  
+  /* Toggle button styling */
+  .toggle-button {
+    background-color: #3CA9D1;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  
+  .toggle-button:hover {
+    background-color: #2a7a9e;
+  }
+  
+  /* Inactive toggle button styling */
+  .toggle-button.inactive {
+    background-color: transparent;
+    color: inherit;
+  }
+  
+  /* Form input styling */
+  .signin-signup-input {
+    background-color: #444; /* Default dark mode */
+    color: #fff; /* Default dark mode */
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px 0;
+    width: 100%;
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+  
+  /* Light mode input styling */
+  .light-mode .signin-signup-input {
+    background-color: #ddd;
+    color: #000;
+  }
+  
+  /* Submit button styling */
+  .submit-button {
+    background-color: #3CA9D1;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin: 10px 0;
+    width: 100%;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  
+  .submit-button:hover {
+    background-color: #2a7a9e;
+  }
+  
+  /* Link styling */
+  .switch-link {
+    color: #3CA9D1;
+    cursor: pointer;
+    text-decoration: underline;
+  }
+  
+  .switch-link:hover {
+    color: #2a7a9e;
+  }
+  
+  /* Theme toggle button styling */
+  .theme-toggle-button {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    background-color: #3CA9D1;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    z-index: 2;
+    transition: all 0.3s ease;
+  }
+  
+  .theme-toggle-button:hover {
+    background-color: #2a7a9e;
+  }
+  
+  /* Animation keyframes */
+  @keyframes fadeInSlideUp {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
