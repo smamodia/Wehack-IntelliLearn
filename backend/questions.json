@@ -1,0 +1,40 @@
+[
+    {
+      "quiz_id": "Q001",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the capital of France?",
+          "options": ["Paris", "London", "Berlin", "Madrid"],
+          "correctAnswer": "Paris",
+          "explanation": "Paris is the capital of France."
+        },
+        {
+          "id": 2,
+          "question": "Which language is used for web development?",
+          "options": ["Java", "Python", "JavaScript", "C++"],
+          "correctAnswer": "JavaScript",
+          "explanation": "JavaScript is the primary language for web development."
+        }
+      ]
+    },
+    {
+      "quiz_id": "Q002",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is a function in Python?",
+          "options": ["A block of code", "A variable", "A loop", "A class"],
+          "correctAnswer": "A block of code",
+          "explanation": "A function is a block of code that performs a specific task."
+        },
+        {
+          "id": 2,
+          "question": "Which keyword is used to define a function in Python?",
+          "options": ["func", "def", "function", "define"],
+          "correctAnswer": "def",
+          "explanation": "The 'def' keyword is used to define a function in Python."
+        }
+      ]
+    }
+  ]

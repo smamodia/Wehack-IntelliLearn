@@ -1,0 +1,18 @@
+[
+    {
+      "quiz_id": "Q001",
+      "course_id": "C001",
+      "title": "Python Basics Quiz",
+      "difficulty": "Beginner",
+      "questions": 10,
+      "time_required_minutes": 20
+    },
+    {
+      "quiz_id": "Q002",
+      "course_id": "C001",
+      "title": "Python Functions Quiz",
+      "difficulty": "Beginner",
+      "questions": 12,
+      "time_required_minutes": 25
+    }
+  ]

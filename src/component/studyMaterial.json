@@ -1,0 +1,162 @@
+[
+  {
+      "material_id": "M001",
+      "course_id": "C001",
+      "title": "Python Syntax Guide",
+      "type": "PDF",
+      "difficulty": "Beginner",
+      "time_required_hours": 2
+  },
+  {
+      "material_id": "M002",
+      "course_id": "C001",
+      "title": "Python Basics Video",
+      "type": "Video",
+      "difficulty": "Beginner",
+      "time_required_hours": 1.5
+  },
+  {
+      "material_id": "M003",
+      "course_id": "C002",
+      "title": "ML Algorithms Guide",
+      "type": "PDF",
+      "difficulty": "Advanced",
+      "time_required_hours": 3
+  },
+  {
+      "material_id": "M004",
+      "course_id": "C002",
+      "title": "Neural Networks Lab",
+      "type": "Interactive",
+      "difficulty": "Advanced",
+      "time_required_hours": 4
+  },
+  {
+      "material_id": "M005",
+      "course_id": "C003",
+      "title": "HTML Tutorial",
+      "type": "Video",
+      "difficulty": "Intermediate",
+      "time_required_hours": 2.5
+  },
+  {
+      "material_id": "M006",
+      "course_id": "C003",
+      "title": "CSS Reference",
+      "type": "PDF",
+      "difficulty": "Intermediate",
+      "time_required_hours": 2
+  },
+  {
+      "material_id": "M007",
+      "course_id": "C004",
+      "title": "Data Structures Notes",
+      "type": "PDF",
+      "difficulty": "Intermediate",
+      "time_required_hours": 2.5
+  },
+  {
+      "material_id": "M008",
+      "course_id": "C004",
+      "title": "Java Coding Examples",
+      "type": "Interactive",
+      "difficulty": "Intermediate",
+      "time_required_hours": 3
+  },
+  {
+      "material_id": "M009",
+      "course_id": "C005",
+      "title": "SQL Basics Guide",
+      "type": "PDF",
+      "difficulty": "Beginner",
+      "time_required_hours": 1.5
+  },
+  {
+      "material_id": "M010",
+      "course_id": "C005",
+      "title": "Query Writing Tutorial",
+      "type": "Video",
+      "difficulty": "Beginner",
+      "time_required_hours": 1
+  },
+  {
+      "material_id": "M011",
+      "course_id": "C006",
+      "title": "Cybersecurity Principles",
+      "type": "PDF",
+      "difficulty": "Intermediate",
+      "time_required_hours": 3
+  },
+  {
+      "material_id": "M012",
+      "course_id": "C006",
+      "title": "Network Security Demo",
+      "type": "Interactive",
+      "difficulty": "Intermediate",
+      "time_required_hours": 2.5
+  },
+  {
+      "material_id": "M013",
+      "course_id": "C007",
+      "title": "Deep Learning Theory",
+      "type": "PDF",
+      "difficulty": "Advanced",
+      "time_required_hours": 4
+  },
+  {
+      "material_id": "M014",
+      "course_id": "C007",
+      "title": "Neural Net Coding",
+      "type": "Interactive",
+      "difficulty": "Advanced",
+      "time_required_hours": 3.5
+  },
+  {
+      "material_id": "M015",
+      "course_id": "C008",
+      "title": "JS Fundamentals",
+      "type": "Video",
+      "difficulty": "Beginner",
+      "time_required_hours": 2
+  },
+  {
+      "material_id": "M016",
+      "course_id": "C008",
+      "title": "JS Examples",
+      "type": "PDF",
+      "difficulty": "Beginner",
+      "time_required_hours": 1.5
+  },
+  {
+      "material_id": "M017",
+      "course_id": "C009",
+      "title": "Cloud Concepts",
+      "type": "PDF",
+      "difficulty": "Intermediate",
+      "time_required_hours": 2.5
+  },
+  {
+      "material_id": "M018",
+      "course_id": "C009",
+      "title": "AWS Tutorial",
+      "type": "Video",
+      "difficulty": "Intermediate",
+      "time_required_hours": 2
+  },
+  {
+      "material_id": "M019",
+      "course_id": "C010",
+      "title": "Algorithm Analysis",
+      "type": "PDF",
+      "difficulty": "Advanced",
+      "time_required_hours": 3.5
+  },
+  {
+      "material_id": "M020",
+      "course_id": "C010",
+      "title": "Complexity Examples",
+      "type": "Interactive",
+      "difficulty": "Advanced",
+      "time_required_hours": 3
+  }
+]

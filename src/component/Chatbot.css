@@ -1,0 +1,40 @@
+chat-box {
+    line-height: 1.5; /* Improve readability with better line spacing */
+  }
+  
+  .bot-message {
+    padding: 10px;
+  }
+  
+  .bot-message span {
+    display: block; /* Ensure block-level rendering for line breaks */
+  }
+  
+  .bot-message strong {
+    font-weight: bold; /* Ensure bold text renders correctly */
+  }
+  
+  .bot-message br {
+    margin-bottom: 8px; /* Add spacing after line breaks */
+  }
+  
+  /* Style for user messages */
+  .user-message {
+    padding: 10px;
+  }
+  
+  /* Typing animation for the header (optional enhancement) */
+  .typing-animation {
+    overflow: hidden;
+    white-space: nowrap;
+    animation: typing 2s steps(20, end);
+  }
+  
+  @keyframes typing {
+    from {
+      width: 0;
+    }
+    to {
+      width: 100%;
+    }
+  }
